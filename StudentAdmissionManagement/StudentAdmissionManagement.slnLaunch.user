@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "StudentAdmissionManagement.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\StudentAttendanceDetails\\StudentAttendanceManagement.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SchoolAPIGateway\\SchoolAPIGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

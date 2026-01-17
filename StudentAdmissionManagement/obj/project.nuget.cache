@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AveRoBHnHHU=",
+  "success": true,
+  "projectFilePath": "D:\\Microservices\\StudentAdmissionManagement\\StudentAdmissionManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
